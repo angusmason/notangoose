@@ -1,4 +1,4 @@
-# Howdy
+# I try to make games
 
 <!--
 **notangoose/notangoose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,11 +17,7 @@ Here are some ideas to get you started:
 
 ## What I'm working on
 ```
-I'm currently making a two-player sumo-themed fighting game, and still developing Baulko Clock.
-```
-## I'm currently learning
-```
-C# and Unity.
+I'm currently making a two-player co-op rogue-like game.
 ```
 ## 10 Fun facts (about you)
 ```
