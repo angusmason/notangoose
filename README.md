@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## What I'm working on
 ```
-I'm currently making a two-player co-op rogue-like game.
+I'm currently making a two-player co-op rogue-like game called Trippy.
 ```
 ## 10 Fun facts (about you)
 ```
