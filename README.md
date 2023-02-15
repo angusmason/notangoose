@@ -1,4 +1,6 @@
-# I try to make games
+# I try to make games.
+# And I can't draw.
+# Also I am magic.
 
 <!--
 **notangoose/notangoose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +19,7 @@ Here are some ideas to get you started:
 
 ## What I'm working on
 ```
-I'm currently making a two-player co-op rogue-like game called Trippy.
+I'm making a (very) hard platformer with only nine seconds to complete each level.
 ```
 ## 10 Fun facts (about you)
 ```
