@@ -1,6 +1,4 @@
-# I try to make games.
-# And I can't draw.
-# Also I am magic.
+# I try to make games. \n And I can't draw. n\ Also I am magic.
 
 <!--
 **notangoose/notangoose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
